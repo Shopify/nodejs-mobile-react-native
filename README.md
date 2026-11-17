@@ -1,3 +1,5 @@
+> **This repository is no longer maintained.** It has been archived by Shopify and receives no updates or security fixes.
+
 
 # The Node.js for Mobile Apps React Native plugin
 
